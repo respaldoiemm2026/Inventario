@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/api/:path*", "destination": "https://TU-API.onrender.com/:path*" }
+    { "source": "/api/:path*", "destination": "https://inventario-6r2f.onrender.com/:path*" }
   ],
   "redirects": [
     { "source": "/", "destination": "/page/login/indexpri.html", "permanent": false }
